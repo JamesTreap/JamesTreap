@@ -29,7 +29,6 @@
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-    <img alt="Pug" src="https://img.shields.io/badge/-Pug-efcca3?style=flat-square&logo=pug&logoColor=white" />
 </p>
 
 <h3>What I'm up to:</h3>
